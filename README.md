@@ -24,7 +24,7 @@ A Django-based Learning Management System (LMS) designed and developed by **Mani
 
 ## 👨‍💻 Developed By
 
-**Piyush**  
+**Manisha**  
 Aspiring full-stack developer with a strong foundation in Python and Django. This project reflects hands-on experience with backend development and architectural design in web apps.
 
 ---
