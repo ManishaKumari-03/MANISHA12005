@@ -1,6 +1,6 @@
 # MANISHA_LMS — Learning Management System 🧠
 
-A Django-based Learning Management System (LMS) designed and developed by **Piyush** to streamline educational workflows, manage users, and facilitate digital learning experiences. This project demonstrates the core principles of Django development, including MVC/MVT architecture, user authentication, database interaction, and modular app design.
+A Django-based Learning Management System (LMS) designed and developed by **Manisha** to streamline educational workflows, manage users, and facilitate digital learning experiences. This project demonstrates the core principles of Django development, including MVC/MVT architecture, user authentication, database interaction, and modular app design.
 
 ---
 
